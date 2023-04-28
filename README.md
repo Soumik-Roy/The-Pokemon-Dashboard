@@ -1,6 +1,6 @@
 # Pokemon Dashboard
 
-In this course project for CSL4050, we developed a dashboard to visualize the various characteristics of different pokemons over different generations.
+In this course project for CSL4050, we developed a dashboard to visualize the various characteristics of different pokemons over different generations. We used *Python dash* as the base software for implementing this project. 
 
 We have used the Complete Pokemon Dataset as our source of data : [Dataset Link](https://www.kaggle.com/datasets/rounakbanik/pokemon)
 
