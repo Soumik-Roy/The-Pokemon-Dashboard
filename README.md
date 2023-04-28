@@ -16,4 +16,4 @@ Run the file below to install all dependencies:
 ## Run a demo
 Run the cells of the following colab notebook from the top
 
-```pokemon.ipynb```
+```pokemon_dashboard.ipynb```
