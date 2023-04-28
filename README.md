@@ -18,6 +18,6 @@ Run the cells of the following colab notebook from the top (CLick on Run All)
 
 ```pokemon_dashboard.ipynb```
 
-In case you donot have support for Ipynb Notebooks installed on your system, you can directly run the Dashboard by using the following command : 
+In case you do not have support for ipynb Notebooks installed on your system, you can directly run the Dashboard by using the following command : 
 
 ```python app.py```
